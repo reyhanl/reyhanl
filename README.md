@@ -15,17 +15,8 @@
 ## Connect with me
 
 
-<svg version="1.1"
-     xmlns="http://www.w3.org/2000/svg"
-     xmlns:xlink="http://www.w3.org/1999/xlink"
-     width="100" height="50"
->
-  <text font-size="16" x="10" y="20">
-    <tspan fill="red">Hello</tspan>,
-    <tspan fill="green">world</tspan>!
-  </text>
-</svg>
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" style="color: white" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" style="color: white" src="https://img.icons8.com/ultraviolet/40/000000/linkedin.png" />][Linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" style="color: white" src="https://img.icons8.com/ultraviolet/40/000000/instagram-new.png" />][instagram]
 
 
 ---
