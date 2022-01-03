@@ -15,9 +15,8 @@
 ## Connect with me
 
 
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" style="color: white" src="https://img.icons8.com/ultraviolet/40/000000/linkedin.png" />][Linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" style="color: white" src="https://img.icons8.com/ultraviolet/40/000000/instagram-new.png" />][instagram]
-
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" style="color: white" src="https://img.icons8.com/android/24/000000/linkedin.png" />][Linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" style="color: white" src="https://img.icons8.com/android/24/000000/instagram.png" />][instagram]
 
 ---
 
