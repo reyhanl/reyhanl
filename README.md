@@ -24,9 +24,5 @@
 ---
 
 
-[website]: https://codeSTACKr.com
-[course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[instagram]: https://instagram.com/reyhanmuhammadl
+[linkedin]: https://linkedin.com/in/reyhan-muhammad-894148173/
