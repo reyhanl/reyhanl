@@ -9,8 +9,11 @@
 - 🍎 I graduated from Apple Developer Academy 
 - 🧑🏼‍💻 I worked at few Startup
 - 👨🏼‍🏫 I also worked at an Academy as iOS Facilitator
-- 🍎 2021 Goals: Be an Apple developer academy mentor
+- 🍎 2022 Goals: Work at unicorn company
 - ⚡ Fun fact: I can design too
+
+## Tech Stack 
+`Swift` `NoSql` `SwiftUI` `JavaScript`
 
 ## Connect with me
 
