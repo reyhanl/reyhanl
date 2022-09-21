@@ -9,19 +9,7 @@
 - 🍎 I graduated from Apple Developer Academy 
 - 🧑🏼‍💻 I worked at few Startup
 - 👨🏼‍🏫 I also worked at an Academy as iOS Facilitator
-- 🍎 2022 Goals: Work at unicorn company
-- ⚡ Fun fact: I can design too
+- 🦄 2022 Goals: Work at unicorn company
 
 ## Tech Stack 
 `Swift` `NoSql` `SwiftUI` `JavaScript`
-
-## Connect with me
-
-
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-
-
-[instagram]: https://instagram.com/reyhanmuhammadl
-[linkedin]: https://linkedin.com/in/reyhan-muhammad-894148173/
