@@ -12,4 +12,4 @@
 - 🦄 2022 Goals: Work at unicorn company
 
 ## Tech Stack 
-`Swift` `NoSql` `SwiftUI` `JavaScript`
+`Swift` `NoSql` `SwiftUI`
