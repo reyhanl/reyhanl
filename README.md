@@ -8,8 +8,8 @@
 
 - 🍎 I graduated from Apple Developer Academy 
 - 🧑🏼‍💻 I worked at few Startup
-- 👨🏼‍🏫 I also worked at an Academy as iOS Facilitator
-- 🦄 2022 Goals: Work at unicorn company
+- 👨🏼‍🏫 I also had experience working as iOS Facilitator at an Academy
+- 🦄 2023 Goals: Work at a company that changes people's life
 
 ## Tech Stack 
 `Swift` `NoSql` `SwiftUI`
