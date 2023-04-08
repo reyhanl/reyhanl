@@ -8,7 +8,7 @@
 
 - 🍎 I graduated from Apple Developer Academy 
 - 🧑🏼‍💻 I worked at few Startup
-- 👨🏼‍🏫 I also had experience working as iOS Facilitator at an Academy
+- 👨🏼‍🏫 I also have experience working as iOS Facilitator at an Academy
 - 🦄 2023 Goals: Work at a company that change people's life
 
 ## Tech Stack 
