@@ -6,9 +6,9 @@
 
 ## I'm a Developer!!
 
-- 🍎 I graduated from Apple Developer Academy 
-- 🧑🏼‍💻 I worked at few Startup
-- 👨🏼‍🏫 I also have experience working as iOS Facilitator at an Academy
+- 📌 check out my pinned projects, you might find it useful 
+- 🔥 check out my articles on [Medium](https://medium.com/@reyhanmuhammadl) 
+- 📧 hit me up for any inquiries <a href="mailto:reyhannnmuhammad9@gmail.com">reyhannnmuhammad9@gmail.com</a>
 
 ## Tech Stack 
 `Swift` `NoSql` `SwiftUI` `Objective-C`
