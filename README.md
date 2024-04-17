@@ -1,10 +1,4 @@
-### Hi there 👋
-
-<!--
-**reyhanl/reyhanl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-
-## Bienvenue sur mon répertoire.
+## Bienvenue sur mon répertoire 👋.
 
 - 📌 Check out my pinned projects, you might find it useful.
 - 🔥 Check out my articles on [Medium](https://medium.com/@reyhanmuhammadl).
